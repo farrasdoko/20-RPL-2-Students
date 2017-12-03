@@ -1,0 +1,6 @@
+framework module Pods_RPL2students {
+  umbrella header "Pods-RPL2students-umbrella.h"
+
+  export *
+  module * { export * }
+}
